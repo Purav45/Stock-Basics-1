@@ -5,9 +5,20 @@
 </head>
   <body> 
     <h1> What is a stock </h1>
-      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porttitor rhoncus dolor purus non enim praesent. Praesent semper feugiat nibh sed. Turpis in eu mi bibendum. Justo nec ultrices dui sapien eget mi proin sed. Nunc scelerisque viverra mauris in aliquam sem fringilla ut. Aliquam etiam erat velit scelerisque. In dictum non consectetur a erat nam at lectus urna. Eu consequat ac felis donec et odio pellentesque diam volutpat. Habitasse platea dictumst quisque sagittis purus sit amet. Ridiculus mus mauris vitae ultricies leo integer. Risus nullam eget felis eget nunc lobortis. Tempor orci dapibus ultrices in iaculis nunc sed. Mauris ultrices eros in cursus turpis. Consectetur adipiscing elit ut aliquam purus sit amet luctus. Fusce ut placerat orci nulla pellentesque dignissim enim. Risus in hendrerit gravida rutrum quisque non tellus orci ac.
+      <p> A stock, also known as equity, is a security that represents the ownership of a fraction of the issuing corporation. Units of stock are called "shares" which entitles the owner to a proportion of the corporation's assets and profits equal to how much stock they own. 
       </p>
+      <p2> Source: <a href="https://www.investopedia.com/terms/s/stock.asp"> Investopedia </a> </p2>
   <img src="https://img.freepik.com/premium-vector/money-icon-vector-dollar-symbol-sign_666746-34.jpg?w=2000" alt="Money Symbol">
+    <h2> Top 5 stocks to buy (from a highschool teen) </h2>
+      <ol>
+        <li> Apple </li>
+        <li> Tesla </li>
+        <li> Google </li>
+        <li> Nvidia </li>
+        <li> Berkshire Hathway A </li>
+      </ol>
+<img src = "https://www.the-sun.com/wp-content/uploads/sites/6/2023/02/apple-logo-newnew-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1" alt="Apple Logo">
+
 
 
 
